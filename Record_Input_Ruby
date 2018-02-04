@@ -12,9 +12,3 @@ album_title = gets.chomp
 album_title.capitalize! ##figure out how to capitalize each word excepting small words
 
 puts "Your new album is #{album_title} by #{first_name} #{last_name}."
-
-=begin
-Currently the code is running without letting  me input, then I click Run and all of it spits out
-[[Artist Last Name Album Title Your new album is First_name = gets.chomp by Run Print "artist first name".]]
-what's the deal?
-=end 
