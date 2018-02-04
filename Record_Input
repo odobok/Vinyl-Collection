@@ -11,4 +11,4 @@ print "Album Title "
 album_title = gets.chomp
 album_title.capitalize! ##figure out how to capitalize each word excepting small words
 
-puts "Your new album is #{album_title} by #{first_name} #{last_name}."
+puts "Congrats on buying #{album_title} by #{first_name} #{last_name}."
