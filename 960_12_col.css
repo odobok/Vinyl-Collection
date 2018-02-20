@@ -1,8 +1,8 @@
 /* CSS Document */
 
 /*
-  960 Grid System ~ Core CSS.
-  added my CSS styling to maintain one CSS document 
+  used 960 Grid System ~ Core CSS.
+  added CSS styling to maintain one CSS document 
 */
 ----------------------------------------------------------------------------------------------------*/
 
@@ -29,8 +29,13 @@ h1 {
 	color:black;
 }
 
+h2 {
+	text-align: left;
+	color:black;
+}
+
 h3 {
-	color:red;
+	color:black;
 }
 
 table {
